@@ -1,0 +1,7 @@
+{
+  "name": "HotelPro – Hotel Management System",
+  "description": "Enterprise-grade luxury hotel management system featuring room inventory, online booking workflows, guest portals, staff housekeeping ops, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
